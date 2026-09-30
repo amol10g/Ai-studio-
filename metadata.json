@@ -1,0 +1,6 @@
+{
+  "name": "MemeForge - Modern Meme Generator & Studio",
+  "description": "Create high-impact memes with precision typography, smart caption wrapping, multi-panel layouts, custom frames, and instant clipboard export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
